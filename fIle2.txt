@@ -1,2 +1,6 @@
 Welcome to commit
+
 this line is added for conflict purpose by teammate
+
+Change related to CR1
+
